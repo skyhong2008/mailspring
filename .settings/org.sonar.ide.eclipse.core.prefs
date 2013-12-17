@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.jdbc.password\=sonar\r\nsonar.jdbc.username\=sonar\r\nsonar.jdbc.url\=jdbc\:mysql\://127.0.0.1\:3306/sonar\r\nsonar.jdbc.driver\=com.mysql.jdbc.Driver
+projectKey=com.cn.huwg\:mailspring
+serverUrl=http\://192.168.1.210\:9000
+version=2
